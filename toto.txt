@@ -1,5 +1,4 @@
 je modifie mon fichier
-<<<<<<< HEAD
 
 
 
@@ -20,6 +19,6 @@ je modifie mon fichier
 
 
 Aaaah je fais des test
-=======
+
 nouvelle modification
->>>>>>> 2ac9fe380f6ce239c47cc2de566970db0bbcc634
+
